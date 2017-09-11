@@ -1,6 +1,6 @@
 # Live Demos
 
-Live Demos of ServiceStack .NET Core 2.0 Web Apps. More ServiceStack Demos available at [ServiceStackApps](https://github.com/ServiceStackApps/LiveDemos) and [NetCoreApps](https://github.com/NetCoreApps/LiveDemos).
+Live Demos of ServiceStack .NET Core 2.0 Web Apps. More Demos available at [ServiceStackApps](https://github.com/ServiceStackApps/LiveDemos) and [NetCoreApps](https://github.com/NetCoreApps/LiveDemos).
 
 ### [Web App Starter](https://github.com/NetCoreWebApps/WebAppStarter)
 
