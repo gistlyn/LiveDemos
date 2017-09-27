@@ -17,12 +17,19 @@ Example of running a Custom ServiceStack in a Web App:
 
 > Live Demo: http://chat.web-app.io
 
-### [Redis](https://github.com/NetCoreWebApps/Redis)
+### [Redis Vue](https://github.com/NetCoreWebApps/Redis)
 
-NET Core 2.0 Redis Admin HTML Web App:
+NET Core 2.0 Redis Admin Vue Web App:
 
 [![](http://templates.servicestack.net/assets/img/screenshots/redis.png)](http://redis.web-app.io)
 > Live Demo: http://redis.web-app.io
+
+### [Redis HTML](https://github.com/NetCoreWebApps/RedisHtml)
+
+NET Core 2.0 Redis Admin HTML Web App:
+
+[![](http://templates.servicestack.net/assets/img/screenshots/redis-html.png)](http://redis-html.web-app.io)
+> Live Demo: http://redis-html.web-app.io
 
 ### [Rockwind Web App](https://github.com/NetCoreWebApps/Rockwind)
 
