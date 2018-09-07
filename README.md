@@ -1,10 +1,17 @@
 # Live Demos
 
-Live Demos of ServiceStack .NET Core 2.0 Web Apps. More Demos available at [ServiceStackApps](https://github.com/ServiceStackApps/LiveDemos) and [NetCoreApps](https://github.com/NetCoreApps/LiveDemos).
+Live Demos of ServiceStack .NET Core 2.1 Web Apps. More Demos available at [ServiceStackApps](https://github.com/ServiceStackApps/LiveDemos) and [NetCoreApps](https://github.com/NetCoreApps/LiveDemos).
 
-### [Web App Starter](https://github.com/NetCoreWebApps/WebAppStarter)
+### [Blog](https://github.com/NetCoreWebApps/Blog)
 
-.NET Core 2.0 Web Apps Starter project:
+A minimal, multi-user Twitter OAuth blogging platform that can create living, powerful pages:
+
+[![](http://templates.servicestack.net/assets/img/screenshots/blog.png)](http://blog.web-app.io)
+> Live Demo: http://blog.web-app.io
+
+### [Bare](https://github.com/NetCoreWebApps/Bare)
+
+.NET Core 2.1 Web Apps Starter project:
 
 [![](http://templates.servicestack.net/assets/img/screenshots/bare.png)](http://bare.web-app.io)
 > Live Demo: http://bare.web-app.io
@@ -19,14 +26,14 @@ Example of running a Custom ServiceStack in a Web App:
 
 ### [Redis Vue](https://github.com/NetCoreWebApps/Redis)
 
-NET Core 2.0 Redis Admin Vue Web App:
+.NET Core 2.1 Redis Admin Vue Web App:
 
 [![](http://templates.servicestack.net/assets/img/screenshots/redis.png)](http://redis.web-app.io)
 > Live Demo: http://redis.web-app.io
 
 ### [Redis HTML](https://github.com/NetCoreWebApps/RedisHtml)
 
-NET Core 2.0 Redis Admin HTML Web App:
+.NET Core 2.1 Redis Admin HTML Web App:
 
 [![](http://templates.servicestack.net/assets/img/screenshots/redis-html.png)](http://redis-html.web-app.io)
 > Live Demo: http://redis-html.web-app.io
