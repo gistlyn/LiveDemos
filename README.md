@@ -9,12 +9,12 @@ A minimal, multi-user Twitter OAuth blogging platform that can create living, po
 [![](http://templates.servicestack.net/assets/img/screenshots/blog.png)](http://blog.web-app.io)
 > Live Demo: http://blog.web-app.io
 
-### [Bare](https://github.com/NetCoreWebApps/Bare)
+### [Redis Vue](https://github.com/NetCoreWebApps/Redis)
 
-.NET Core 2.1 Web Apps Starter project:
+.NET Core 2.1 Redis Admin Vue Web App:
 
-[![](http://templates.servicestack.net/assets/img/screenshots/bare.png)](http://bare.web-app.io)
-> Live Demo: http://bare.web-app.io
+[![](http://templates.servicestack.net/assets/img/screenshots/redis.png)](http://redis.web-app.io)
+> Live Demo: http://redis.web-app.io
 
 ### [Chat](https://github.com/NetCoreWebApps/Chat)
 
@@ -24,12 +24,12 @@ Example of running a Custom ServiceStack in a Web App:
 
 > Live Demo: http://chat.web-app.io
 
-### [Redis Vue](https://github.com/NetCoreWebApps/Redis)
+### [Bare](https://github.com/NetCoreWebApps/Bare)
 
-.NET Core 2.1 Redis Admin Vue Web App:
+.NET Core 2.1 Web Apps Starter project:
 
-[![](http://templates.servicestack.net/assets/img/screenshots/redis.png)](http://redis.web-app.io)
-> Live Demo: http://redis.web-app.io
+[![](http://templates.servicestack.net/assets/img/screenshots/bare.png)](http://bare.web-app.io)
+> Live Demo: http://bare.web-app.io
 
 ### [Redis HTML](https://github.com/NetCoreWebApps/RedisHtml)
 
